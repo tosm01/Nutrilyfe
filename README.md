@@ -1,6 +1,8 @@
 # Nutrilyfe
 An industry project completed as part of a university unit (FIT3170) for AMILI. This project is a data scraping and mining solution consisting of two microservices on the backend and a web application on the frontend.
 
+![System Architecture](Nutrilyfe_system_architecture.png)
+
 ## Backend
 ### Data Scraping Service
 A data scraping and mining service developed using Python (Django) to collect and process data from various sources to extract key information using NER for data ingestion into a PostgreSQL database hosted on AWS RDS. 
