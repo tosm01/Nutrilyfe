@@ -16,4 +16,4 @@ A data service developed using Spring Boot to interface with the database, hoste
 The web app was developed using React to demonstrate and present data to the client. Hosted on Heroku.
 
 ## Note
-Due to the confidential nature of this project, I am unable to disclose the data sources used nor the nature of the data itself.
+Due to the confidential nature of this project, I am unable to disclose the data sources used nor the nature of the data.
